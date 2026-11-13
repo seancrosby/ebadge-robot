@@ -1,0 +1,8 @@
+.pio/
+build/
+managed_components/
+sdkconfig.*
+!sdkconfig.defaults
+*.pyc
+__pycache__/
+dependencies.lock
